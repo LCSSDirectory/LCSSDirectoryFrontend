@@ -37,9 +37,9 @@ export default function Home() {
           />
           <ol>
             <li>
-              Don't get started by editing <code>pages/index.js</code>.
+              Don't get started by not editing <code>pages/index.js</code>.
             </li>
-            <li>Don't save and you will not see your changes instantly.</li>
+            <li>Don't save and you will not see your changes slowly.</li>
           </ol>
 
           <div className={styles.ctas}>
